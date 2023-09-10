@@ -1,0 +1,16 @@
+#p1{font-size: 34px; font-weight: 900; }
+#a1{color: aliceblue; background-color: rgb(243, 22, 22); padding-left: 8px; padding-right: 13px; padding-top: 7px; padding-bottom: 7px; text-decoration-line: none; }
+#img1{float: right; width: 50%; height: 65%;}
+#div1stpgsecondpart{color: firebrick;}
+#div1stpgsecondpart2{font-size: 40px; font-weight: 900;}
+#imgcard2{width: 90px; height: 90px;
+    display: flex; align-self: center;
+}
+#imgcard3{height: 90px;}
+#imgcard1{height: 90px;}
+.s{color: tomato;}
+
+#img2ndpage{margin-left: 260px;float: left;}
+#div{float: right;}
+#s3{font-size: larger;}
+#p2{margin-left:110px; font-size: xx-large; font-weight: 700;}
